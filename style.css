@@ -13,3 +13,6 @@ h1, p, img, ul {
 .italics {
 	font-style: italic;
 }
+ul {
+	list-style-type: none;
+}
